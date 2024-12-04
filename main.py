@@ -6,12 +6,10 @@ def insert_data(model, data_list):
         model.insert(data)
 
 def main():
-    # Initialize models
     user_model = User()
     product_model = Product()
     order_model = Order()
 
-    # Sample data
     users_data = [
         {'id': 1, 'name': 'Alice', 'email': 'alice@example.com'},
         {'id': 2, 'name': 'Bob', 'email': 'bob@example.com'},
