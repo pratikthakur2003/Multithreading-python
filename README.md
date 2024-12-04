@@ -45,4 +45,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The program will create the databases, tables, and perform concurrent insertions of sample data.
+## Output
+
+![multithreading-python-output](https://github.com/user-attachments/assets/002391fa-1350-4640-af9f-7ad7417c73b5)
+
